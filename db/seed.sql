@@ -1,4 +1,4 @@
-INSERT INTRO department (name)
+INSERT INTO department (name)
 VALUES 
 ('Information Systems and Technology'),
 ('Finance'),
