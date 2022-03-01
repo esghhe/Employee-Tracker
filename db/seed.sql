@@ -1,3 +1,4 @@
+USE employees;
 INSERT INTO department (name)
 VALUES 
 ('Information Systems and Technology'),
